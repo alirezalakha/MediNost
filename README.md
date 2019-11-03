@@ -1,2 +1,2 @@
 # MediNost
-Where People meet Agility
+Where Patient's meet Agility
